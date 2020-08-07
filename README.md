@@ -10,6 +10,11 @@ Design Doc: [go/neighborgood-design](https://docs.google.com/document/d/1d377vft
 
 Deployed Site: http://neighborgood-step.appspot.com/
 
+## Contributors
+* [Mariafe (Mafe) Ponce](https://github.com/poncem91)
+* [Leonard Zhang](https://github.com/LeonardZ0731)
+* [Denzil Bilson](https://github.com/denzilbilson)
+
 ## Static Demo
 
 <img src="/demo-images/1.gif?raw=true" width="700">
