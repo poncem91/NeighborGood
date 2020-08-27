@@ -6,10 +6,6 @@ Capstone project for STEP pod 46 in 2020.
 
 This is not an official Google product.
 
-Design Doc: [go/neighborgood-design](https://docs.google.com/document/d/1d377vftcCXPGBLl04u9gLVmWyTv2fXVYZQLGLP2Jzf0/edit)
-
-Deployed Site: http://neighborgood-step.appspot.com/
-
 ## Contributors
 * [Mariafe (Mafe) Ponce](https://github.com/poncem91)
 * [Leonard Zhang](https://github.com/LeonardZ0731)
